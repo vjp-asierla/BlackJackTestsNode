@@ -1,0 +1,16 @@
+{
+  "name": "BlackJackTestsNode",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
